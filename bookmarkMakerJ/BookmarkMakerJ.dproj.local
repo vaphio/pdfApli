@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/04/10 10:44:00.000.643,=D:\MyDoc\MyApli\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/04/10 10:46:48.000.764,D:\MyDoc\MyApli\Delphi\BookMark\Unit1.pas=D:\MyDoc\MyApli\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/04/10 10:46:48.000.764,D:\MyDoc\MyApli\Delphi\BookMark\Unit1.dfm=D:\MyDoc\MyApli\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2025/04/10 10:47:03.000.465,D:\MyDoc\MyApli\Delphi\BookMark\BookmarkMakerJ.dproj=D:\MyDoc\MyApli\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
