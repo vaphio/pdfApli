@@ -4,3 +4,4 @@
 
 - /scriptフォルダは、画像加工用のスクリプト類。Imagemagickを使用
 - /bookmarkMakerJフォルダは、Delphiで作成した日本語目次を作成する補助アプリです。(PDFtkBookmarks.exeというアプリを使用します。)
+- PDFtkBookmarks.exは、[このサイト](https://pdftk-bookmarks-editor.sourceforge.io/)を参照願います。
