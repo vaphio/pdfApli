@@ -1,13 +1,17 @@
 #! /bin/bash
+# cut png file 2pictures and save jpg file
+# this cutr.sh is for right side open
+# cut jpg file will be stored /cutr folder
+# need 2 arguments for setting width default is 1270
 
 A=1
 E=".jpg"
-D=$1"cut/"
-OW=2880     # Original picture width
-OH=1800     # Original picture height
-TW=$2       # Target picture width
-TH=1800     # Target picture height
-
+D=$1"cutr/"
+OW=2880
+OH=1800
+TW=1270
+TW=$2
+TH=1800
 SIZE=$TW\x$TH
 L0=$(((OW-TW)/2))
 L1=$(((OW-TW*2)/2))
